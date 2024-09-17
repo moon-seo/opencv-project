@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread("cat.jpg")
+img = cv.imread("resources/cat.jpg")
 
 # Increase brightness (add 50 to all pixel values)
 brightened = cv.add(img, (50, 50, 50))
