@@ -5,13 +5,16 @@ Getting into OpenCV
 - Install OpenCV (python)
     
     `pip3 install opencv-python`
-- Load and Show images
-- Brightness Adjustment
-- Addition and Subtraction
-- Contrast Adjustment
-- Extract Differences
-- Extract a Region of Interest (ROI)
-- Draw a Rectangle with a Specified color on a Specific Area
+- Load and show images
+- Brightness adjustment
+- Addition and subtraction
+- Contrast adjustment
+- Extract differences
+- Extract a region of interest (ROI)
+- Draw a rectangle with a specified color on a specific area
+- Adjust pixel values
+- Connect to the camera (video)
+- Extract frames from the video
 
 # Image Source
 - [cat.jpg](https://ko.wikipedia.org/wiki/고양이아과)
