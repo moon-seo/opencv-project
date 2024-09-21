@@ -2,19 +2,34 @@
 Getting into OpenCV
 
 # Basic Operations
-- Install OpenCV (python)
+- **Install OpenCV (python)**
     
     `pip3 install opencv-python`
-- Load and show images
-- Brightness adjustment
-- Addition and subtraction
-- Contrast adjustment
-- Extract differences
-- Extract a region of interest (ROI)
-- Draw a rectangle with a specified color on a specific area
-- Adjust pixel values
-- Connect to the camera (video)
-- Extract frames from the video
+- **Load and show images**
+- **Brightness adjustment**
+
+  <img width="300" alt="brightness example" src="https://github.com/user-attachments/assets/ae52a246-fa63-4337-a51d-8a8407d6e1d3">
+
+- **Addition and subtraction**
+
+  <img width="300" alt="add and subtract example" src="https://github.com/user-attachments/assets/34817294-98f2-42b4-bc2a-b26f623c68ca">
+
+- **Contrast adjustment**
+
+  <img width="300" alt="contrast example" src="https://github.com/user-attachments/assets/ffd07f1c-5aa8-436c-aed1-60fb0b314c37">
+
+- **Extract differences**
+
+  <img width="300" alt="difference example" src="https://github.com/user-attachments/assets/16e17fcc-dfbc-410f-bd40-2cecbece2fd1">
+  
+- **Extract a region of interest (ROI)**
+
+  <img width="300" alt="roi example" src="https://github.com/user-attachments/assets/6aad3b32-bd03-48cb-b4ba-c3437595f2fe">
+
+- **Draw a rectangle with a specified color on a specific area**
+- **Adjust pixel values**
+- **Connect to the camera (video)**
+- **Extract frames from the video**
 
 # Image Source
 - [cat.jpg](https://ko.wikipedia.org/wiki/고양이아과)
